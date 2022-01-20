@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">주사위</string>
+    <string name="button_text">롤</string>
+    <string name="logo_description">imageLogo</string>
+    <string name="left_dice_description">leftDice</string>
+    <string name="right_dice_description">rightDice</string>
+    <string name="description_button">Rolls the Dice</string>
+</resources>
